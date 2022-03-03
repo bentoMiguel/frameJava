@@ -1,0 +1,2 @@
+INSERT INTO public.usuario VALUES (1, 'adm', '\xd78aad5a7b0598fdaea2f62b3e0a7598');
+SELECT pg_catalog.setval('public.usuario_id_seq', 1, true);
